@@ -4,6 +4,8 @@
 🎓 Goal: pursue a degree in **Software Engineering** abroad starting in 2027  
 🌍 Interests: programming, languages and technology  
 ❄️ Passionate about cold places and software innovation  
+Programming Languages:
+HTML, CSS, MySql, JavaScript, C#
 
 ---
 
@@ -11,8 +13,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)   
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 
 ---
 
