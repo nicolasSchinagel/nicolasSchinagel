@@ -36,10 +36,8 @@ HTML, CSS, MySql, JavaScript, C#
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight)  
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas123&layout=compact&theme=radical)
 ---
 
 <!--
