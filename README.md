@@ -37,7 +37,7 @@ HTML, CSS, MySql, JavaScript, C#
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas123&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasschinagel&layout=compact&theme=radical)
 ---
 
 <!--
