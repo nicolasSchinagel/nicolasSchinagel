@@ -4,7 +4,7 @@
 🎓 Goal: pursue a degree in **Software Engineering** abroad starting in 2027  
 🌍 Interests: programming, languages and technology  
 ❄️ Passionate about cold places and software innovation  
-Programming Languages:
+Programming Languages:-
 HTML, CSS, MySql, JavaScript, C#
 
 ---
