@@ -37,8 +37,9 @@ HTML, CSS, MySql, JavaScript, C#
 
 ## 📊 GitHub Stats
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasschinagel&layout=compact&theme=radical)
----
+
 
 <!--
 **nicolasSchinagel/nicolasSchinagel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
