@@ -1,7 +1,7 @@
 ## Hello people, Nícolas is here!
 
-💻 Student of **Systems Development** (2nd year of technical high school)  
-🎓 Goal: pursue a degree in **Software Engineering** abroad starting in 2027  
+💻 Student of **Systems Development** (3nd year of technical high school)  
+🎓 Goal: pursue a degree in **Computer Engineering** abroad starting in 2027  
 🌍 Interests: programming, languages and technology  
 ❄️ Passionate about cold places and software innovation  
 Programming Languages:-
