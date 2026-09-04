@@ -1,4 +1,4 @@
-## Hello people, Nícolas is here!
+## Hello people, Nícolas is here! Do you want to be my friend?
 
 💻 Student of **Systems Development** (3nd year of technical high school)  
 🎓 Goal: pursue a degree in **Computer Engineering** abroad starting in 2027  
